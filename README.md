@@ -4,6 +4,8 @@ Shiny app to test whether a list of genes is enriched in specific brain cell typ
 
 Requirement: The gene list needs to be in the first column. Any format works (Symbol, ENSEMBL, ENTREZ, etc..).
 
+A brief presentation (pdf) of the method can be found in the "Presentation" folder
+
 The app can be tested at http://jbryois.shinyapps.io/BrainRich/
 
 The app can also run EWCE
