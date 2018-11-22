@@ -1,0 +1,13 @@
+name: BrainRich
+title: BrainRich
+username:
+account: jbryois
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 192925
+bundleId: 1211521
+url: https://jbryois.shinyapps.io/BrainRich/
+when: 1517994233.73109
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: QC_server.R|server copy.R|ui copy.R|Data/.DS_Store|Data/Covariates/covariates_for_brainrich.txt|QC/.DS_Store|QC/random_gene_sets_100_1K_permutations.txt|QC/random_gene_sets_1000_1K_permutations.txt|QC/random_gene_sets_200_1K_permutations.txt|QC/random_gene_sets_2000_1K_permutations.txt|QC/random_gene_sets_500_1K_permutations.txt|QC/Plots/.DS_Store|QC/Plots/Expected_vs_observed.pdf|QC/t_norm/.DS_Store|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_100_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_1000_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_200_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_2000_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_300_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_3000_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_400_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_50_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_500_genes_tnorm.txt|QC/t_norm/random_gene_sets_1000_permutations_24_celltypes_5000_genes_tnorm.txt|QC/t_norm/Plots/.DS_Store|QC/t_norm/Plots/Expected_vs_observed.pdf|QC/t_norm/Plots/hist_per_cell_type_all_genes_eli_288_genes.pdf|QC/t_norm/Plots/hist_per_cell_type_eli_288_genes4.pdf
