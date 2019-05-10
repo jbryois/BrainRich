@@ -9,3 +9,5 @@ A brief presentation (pdf) of the method can be found in the "Presentation" fold
 The app can be tested at http://jbryois.shinyapps.io/BrainRich/
 
 The app can also run EWCE
+
+![](Data/img/shiny.png)
